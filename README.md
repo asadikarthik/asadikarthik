@@ -9,7 +9,7 @@ As a driven Computer Science Engineering student, I am dedicated to building imp
 * 🖥️  See my [Portfolio](https://asadikarthik.github.io/my-portfolio/) 
 * ✉️  Contact me at [asadikarthik17@gmail.com](mailto:asadikarthik17@gmail.com)
 * 🧠  Currently diving into **Java Fullstack Development**, **AI/ML**, and advanced **Web Development** with React, MongoDB, and more.
-* 🤝  Open to collaboration on impactful **Fullstack**  projects**.
+* 🤝  Open to collaboration on impactful **Fullstack**  **projects**.
 * ⚡  Driven by a passion to innovate, I love applying cutting-edge tech solutions to real-world problems.
 
 ### 🚀 Skills & Tech Stack
@@ -26,9 +26,11 @@ As a driven Computer Science Engineering student, I am dedicated to building imp
 ### 🌐 Social Media
 <p align="left">
   <a href="https://github.com/asadikarthik" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/asadi-venkata-karthik/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/karthik_code/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/asadi-karthik/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/itz.karthik._" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://x.com/asadikarthik" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
+
 
 ### 📊 GitHub Stats
 <p align="left">
