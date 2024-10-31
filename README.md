@@ -1,4 +1,4 @@
-Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Karthik asadi
+Hi! My name is Karthik asadi
 ==================================================================================================================================
 
 Computer Science Enthusiast & Future Innovator
@@ -8,28 +8,43 @@ As a driven Computer Science Engineering student, I am dedicated to building imp
 * 🌍  Based in India
 * 🖥️  See my [Portfolio](https://asadikarthik.github.io/my-portfolio/) 
 * ✉️  Contact me at [asadikarthik17@gmail.com](mailto:asadikarthik17@gmail.com)
-* 🧠  Currently diving into **Java Fullstack Development**, **AI/ML**, and advanced **Web Development** with React, MongoDB, and more.
+* 🧠  Currently diving into **Java Fullstack Development**, and advanced **Web Development** with React, MongoDB, and more.
 * 🤝  Open to collaboration on impactful **Fullstack**  **projects**.
 * ⚡  Driven by a passion to innovate, I love applying cutting-edge tech solutions to real-world problems.
 
+<a href="https://www.github.com/asadikarthik" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/asadikarthik?logo=github&style=for-the-badge&color=2EA043&labelColor=161B22" />
+</a>
+
+### View Count
+<p align="left"> 
+  
+  <img src="https://profile-counter.glitch.me/asadikarthik/count.svg" />
+</p>
+
+
 ### 🚀 Skills & Tech Stack
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>&ensp;&ensp;
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>&ensp;&ensp;
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>&ensp;&ensp;
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>&ensp;&ensp;
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>&ensp;&ensp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>&ensp;&ensp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>&ensp;&ensp;
 </p>
 
 ### 🌐 Social Media
+
 <p align="left">
-  <a href="https://github.com/asadikarthik" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/asadi-karthik/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/itz.karthik._" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://x.com/asadikarthik" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://github.com/asadikarthik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" style="margin-right: 10px;" /></a>&ensp;&ensp;
+  <a href="https://www.linkedin.com/in/asadi-karthik/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" style="margin-right: 10px;" /></a>&ensp;&ensp;
+  <a href="https://www.instagram.com/itz.karthik._" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" style="margin-right: 10px;" /></a>&ensp;&ensp;
+  <a href="https://x.com/asadikarthik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" style="margin-right: 10px;" /></a>&ensp;&ensp;
 </p>
+
+
 
 
 ### 📊 GitHub Stats
