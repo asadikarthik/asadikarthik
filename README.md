@@ -16,11 +16,6 @@ As a driven Computer Science Engineering student, I am dedicated to building imp
   <img src="https://img.shields.io/github/followers/asadikarthik?logo=github&style=for-the-badge&color=2EA043&labelColor=161B22" />
 </a>
 
-### View Count
-<p align="left"> 
-  
-  <img src="https://profile-counter.glitch.me/asadikarthik/count.svg" />
-</p>
 
 
 ### 🚀 Skills & Tech Stack
@@ -69,9 +64,10 @@ As a driven Computer Science Engineering student, I am dedicated to building imp
 </p>
 
 ### 💻 Top Repositories
-<a href="https://github.com/asadikarthik/PersonalFinanceManager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=asadikarthik&repo=PersonalFinanceManager&theme=algolia" />
+<a href="https://github.com/asadikarthik/Leetcode">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=asadikarthik&repo=Leetcode&theme=algolia" />
 </a>
+
 <a href="https://github.com/asadikarthik/AmazonClone">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=asadikarthik&repo=AmazonClone&theme=algolia" />
 </a>
